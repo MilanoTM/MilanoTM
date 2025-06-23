@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milano
-- 👦 i´m 18 years old
+- 🤵🏻‍♂️ i´m 18 years old
 - 🇩🇪 i'm living in Germany
 - 👀 I’m interested in technology
 - 😎 I’m currently learning coding
