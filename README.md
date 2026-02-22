@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Milano
-- 🤵🏻‍♂️ i´m 18 years old
-- 🇩🇪 i'm living in Germany
+- 🤵🏻‍♂️ i´m 19 years old
+- 🇩🇪  i'm living in Germany
 - 👀 I’m interested in technology
 - 😎 I’m currently learning coding
-- 🇮🇹 in der der Ausbildung zu Elektronker für Betriebstechnik
+- 🇮🇹  I am training to become an electronics technician for industrial systems at an Italian company.
 
 <!---
 MilanoTM/MilanoTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
